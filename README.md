@@ -1,2 +1,28 @@
-# 79dfcd85-nonprofit-fundraising-business
-Stop scrambling through scattered spreadsheets to report on fundraising progress. The Nonprofit Fundraising Business Dashboard and KPI Tracker Notion Template turns your raw donation data into a clear, real-time command center—so you can hit your goals and prove impact without the manual grind.  This template eliminates the chaos of ad-hoc tracking
+# Nonprofit Fundraising Business Dashboard and KPI Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w6oHfXx1g09JK33md0j3W)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w6oHfXx1g09JK33md0j3W)
+
